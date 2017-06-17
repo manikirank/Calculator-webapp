@@ -16,7 +16,9 @@
 
 <body>
   <div id="clouds">
-	<div class="cloud x1"></div>
+	<!--  commenting from manikiran vizag-->
+	 <div class="cloud x1"></div>
+	
 	<!-- Time for multiple clouds to dance around -->
 	<div class="cloud x2"></div>
 	<div class="cloud x3"></div>
